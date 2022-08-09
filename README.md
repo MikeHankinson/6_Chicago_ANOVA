@@ -10,7 +10,9 @@
 * Random Effects
 
 ### Context
-With categorical predictors, there are a limited number of values that observations can take, meaning that many observations will hold the same value and be grouped together with the same prediction. Using analysis of variance (ANOVA) and the F-test to determine if belonging to a certain group has a significant effect on the value of the dependent variable.  It is possible to explore how group effects are measured as offsets from a baseline effect, how pairwise comparisons can be performed to evaluate any two groups, and how interaction terms can be used to extend the concept of group comparison if there are multiple categorical predictors to consider at the same time.
+With categorical predictors, there are a limited number of values that observations can take, meaning that many observations will hold the same value and be grouped together with the same prediction. Using analysis of variance (ANOVA) and the F-test to determine if belonging to a certain group has a significant effect on the value of the dependent variable.  
+
+It is possible to explore how group effects are measured as offsets from a baseline effect, how pairwise comparisons can be performed to evaluate any two groups, and how interaction terms can be used to extend the concept of group comparison if there are multiple categorical predictors to consider at the same time.
 
 ### Problem Statement
 Use categorical  (gender and species) and continuous variables along with to predict the body depth of crabs.
